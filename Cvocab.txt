@@ -1,0 +1,10 @@
+auto     break    case     char
+const    continue default  do
+int      long     register return
+short    signed   sizeof   static
+struct   switch   typedef  union
+unsigned void     volatile while
+double   else     enum     extern
+float    for      goto     if
+
+use grep "WORD" dir/filename to search for a word
